@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025.12.23 11:06:19.383,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.12.23 11:06:19.619,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.12.23 11:08:13.256,D:\Projects\Programming\CPP\BDS\Console\Algorithms\SumOfElems\SumOfElemesPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.12.23 11:08:13.278,D:\Projects\Programming\CPP\BDS\Console\Algorithms\SumOfElems\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.12.23 11:08:13.298,D:\Projects\Programming\CPP\BDS\Console\Algorithms\SumOfElems\SumOfElemes.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2025.12.23 11:08:28.894,D:\Projects\Programming\CPP\BDS\Console\Algorithms\SumOfElems\SumOfElems.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\SumOfElems\File1.cpp</Transaction>
+    <Transaction>2025.12.23 11:08:33.010,D:\Projects\Programming\CPP\BDS\Console\Algorithms\SumOfElems\SumOfElemes.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\SumOfElems\SumOfElemes.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
