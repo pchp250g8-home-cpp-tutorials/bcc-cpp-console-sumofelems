@@ -14,7 +14,7 @@ int _tmain(int argc, _TCHAR* argv[])
     srand(time(nullptr));
     for (int i = 0; i < nElems; i++)
     {
-        iArray[i] = 1 + rand() / 1000;
+        iArray[i] = 1 + rand() % 50;
     }
     std::cout << "Inputed array : ";
     for (int i = 0; i < nElems; i++)
