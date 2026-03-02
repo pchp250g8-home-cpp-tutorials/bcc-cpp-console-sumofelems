@@ -16,6 +16,7 @@ The program does the following:
       5.3  In this same loop, the sum of the array elements is calculated. The value of the array element that was printed earlier is added to the sum variable of            the array elements.
       5.4. The value of the loop parameter is compared with the final value. If it is less, the loop continues. Otherwise, it terminates.
       5.5. The loop parameter variable is incremented by the loop step. In this example, it is 1.
+   6. The number of array elements and their sum are displayed on the screen.
 
 Developed in the Embarcadero Rad Studio IDE integrated environment.
 
